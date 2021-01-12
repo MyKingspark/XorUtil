@@ -51,9 +51,9 @@ end;
 ### Screenshot desassembleur
 
 - Exécution, point d’arrêt sur ShowMessage()
-![execution.png](Doc\execution.png)
+![execution.png](Doc/execution.png)
 
 - Après exécution
-![after-fill.png](Doc\after-fill.png)
+![after-fill.png](Doc/after-fill.png)
 
 - La recherche de chaînes de caractères dans le desassembleur donnera 0 résultat.
